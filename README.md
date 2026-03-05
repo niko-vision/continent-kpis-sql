@@ -2,7 +2,7 @@
 
 This project builds a continent-level dataset to analyze:
 - sessions (session_count)
-- accounts and verified accounts (account_count, verified_account)
+- accounts (total and verified)
 - revenue split by device (revenue, revenue_from_mobile, revenue_from_desktop)
 - revenue share of total (revenue_from_total)
 
